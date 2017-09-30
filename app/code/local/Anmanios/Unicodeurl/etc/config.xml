@@ -36,6 +36,7 @@
 			<catalog>
 				<rewrite>
 					<product_url>Anmanios_Unicodeurl_Model_Catalog_Product_Url</product_url>
+					<category>Anmanios_Unicodeurl_Model_Catalog_Category</category>
 				</rewrite>
 			</catalog>
 			<core_resource>
